@@ -67,7 +67,7 @@
 
   .pantalla1 {
   height: 100vh;
-  background-image: url("fondos/fondoprincipal.png");
+  background-image: url("fondoprincipal.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -98,7 +98,7 @@
 
 .pantalla2 {
   height: 100vh;
-  background-image: url("fondos/fondoniveles.png");
+  background-image: url("fondoniveles.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -139,7 +139,7 @@
 
 .caja1 {
   background: rgba(0,0,0,0.6);
-  background-image: url("fondos/portadanivel1.png");
+  background-image: url("portadanivel1.png");
   color: white;
   padding: 40px;
   height: 240px;
@@ -174,7 +174,7 @@
 
 .caja2 {
   background: rgba(0,0,0,0.6);
-  background-image: url("fondos/portadanivel2.png");
+  background-image: url("portadanivel2.png");
   color: white;
   padding: 40px;
   height: 240px;
@@ -208,7 +208,7 @@
 
 .caja3 {
   background: rgba(0,0,0,0.6);
-  background-image: url("fondos/portadanivel3.png");
+  background-image: url("portadanivel3.png");
   background-repeat: no-repeat;
   color: white;
   padding: 40px;
@@ -246,7 +246,7 @@
 
 .caja4 {
   background: rgba(0,0,0,0.6);
-  background-image: url("fondos/portadanivel4.2.png");
+  background-image: url("portadanivel4.2.png");
   background-repeat: no-repeat;
   color: white;
   padding: 40px;
@@ -285,7 +285,7 @@
 
 .caja5 {
   background: rgba(0,0,0,0.6);
-  background-image: url("fondos/portadanivel5.png");
+  background-image: url("portadanivel5.png");
   color: white;
   padding: 40px;
   height: 240px;
@@ -321,7 +321,7 @@
 
 .caja6 {
   background: rgba(0,0,0,0.6);
-  background-image: url("fondos/portadanivel6.png");
+  background-image: url("portadanivel6.png");
   color: white;
   padding: 40px;
   height: 240px;
