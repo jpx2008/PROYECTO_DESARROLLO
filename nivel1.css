@@ -2,7 +2,7 @@ body {
   margin: 0;
   min-height: 100vh;
 
-  background-image: url("fondos/nivel1.png");
+  background-image: url("nivel1.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -182,7 +182,7 @@ body {
     inset 0 0 20px #ffffff;
 }
 
-/* Media Queries para responsividad */
+
 @media (max-width: 768px) {
   .character-container {
     width: 120px;
