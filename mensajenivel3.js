@@ -157,7 +157,7 @@ function clicCarta(elemento, correcta) {
   // Animar personaje patada
   const personaje = document.querySelector(".character-side img");
   const imgSrcOriginal = personaje.src;
-  personaje.src = "personaje/personajepateando.png";
+  personaje.src = "personajepateando.png";
   personaje.classList.add("patada");
 
   setTimeout(() => {
