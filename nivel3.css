@@ -222,7 +222,7 @@ body {
   opacity: 0.9;
 }
 
-
+/* Media Queries para responsividad */
 @media (max-width: 768px) {
   .character-container {
     width: 120px;
